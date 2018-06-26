@@ -1,0 +1,22 @@
+body{
+  background-color:#ddd;
+
+}
+h1{
+text-align:center;
+color:blue;
+}
+video{
+  height:300;
+  width:400;
+  position:relative;
+  align-content: center;
+}
+audio{
+  position:relative;
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
